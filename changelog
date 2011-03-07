@@ -1,3 +1,16 @@
+haproxy (1.5-2) stable; urgency=low
+
+  * Non-maintainer upload.
+  * Upgraded to haproxy 1.5-dev3.
+
+ -- Christo Buschek <crito@30loops.net>  Sun, 23 Jan 2011 22:55:45 +0000
+
+haproxy (1.5-1) unstable; urgency=low
+
+  * Testing version.
+
+ -- Christo Buschek <crito@30loops.net>  Sun, 23 Sep 2011 22:00:00 +0000
+
 haproxy (1.4.8-1) unstable; urgency=low
 
   * New upstream release.
