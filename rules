@@ -5,7 +5,7 @@ MAKEARGS=DESTDIR=debian/haproxy \
 	 IGNOREGIT=true \
 	 MANDIR=/usr/share/man \
 	 DOCDIR=/usr/share/doc/haproxy \
-         USE_PCRE=1
+     USE_PCRE=1
 
 ifeq ($(shell dpkg-architecture -qDEB_HOST_ARCH_OS),linux)
 	MAKEARGS+= TARGET=linux26 \

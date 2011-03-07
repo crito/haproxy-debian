@@ -83,7 +83,8 @@ Copyright: ???? Contribution from Aleksandar Lazic <al-haproxy@none.at>
 License: UNKNOWN
 
 Files: debian/*
-Copyright: Copyright (C) 2007, Arnaud Cornet <acornet@debian.org>
+Copyright: Copyright (C) 2007-2011, Arnaud Cornet <acornet@debian.org>
+           Copyright (C) 2011, Christo Buschek <crito@30loops.net>
 License: GPL-2
  The Debian packaging is Copyright (C) 2007, Arnaud Cornet <acornet@debian.org>
  and is licensed under the GPL version 2.
@@ -91,7 +92,7 @@ License: GPL-2
  This package was debianized by Arnaud Cornet <acornet@debian.org>
  on  Fri, 17 Aug 2007 09:33:41 +0200.
  .
- The current Debian maintainer is Arnaud Cornet <acornet@debian.org>
+ The current Debian maintainer is Christo Buschek <crito@30loops.net>
 
 License: GPL-2+
  On Debian systems, the complete text of the GNU General Public License, version
